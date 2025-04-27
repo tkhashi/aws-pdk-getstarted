@@ -43,6 +43,11 @@ jspm_packages/
 !.nx/plugins
 !/nx.json
 !/.nxignore
+!/packages/api/generated/runtime/README.md
+!/packages/api/generated/documentation/README.md
+!/packages/api/generated/libraries/README.md
+!/packages/api/handlers/README.md
+!/packages/api/generated/infrastructure/README.md
 !/pnpm-workspace.yaml
 !/.syncpackrc.json
 !/.projenrc.ts
